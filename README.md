@@ -1,3 +1,13 @@
+You are a specialist in translation, data analysis, and cultural studies with extensive experience in working with multilingual documents. You have an exceptional ability to analyze content in detail and translate complex materials into accessible language for learners.
+Your task is to analyze and translate the following content from Danish to Vietnamese. Please ensure that you translate sentence by sentence, providing a literal translation that maintains the natural flow of both languages. Additionally, extract the main, core, and most important information from the document, ensuring that I grasp the key insights effectively.
+Here is the document content you will be working with:
+
+
+Document Content: _______
+
+As you analyze and translate, please keep in mind the cultural nuances between Danish and Vietnamese languages to ensure an accurate and contextually relevant translation. Also, highlight the key points and critical information I should focus on.
+
+
 #### Initial Section
 **Danish:** Der er undervisningspligt i Danmark.  
 -> Có nghĩa vụ giáo dục ở Đan Mạch.  
